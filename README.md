@@ -160,11 +160,9 @@ Potential features for future versions:
 
 ## 🔐 Security Considerations
 
-- Protection against XSS (Cross-Site Scripting)
 - CSRF (Cross-Site Request Forgery) prevention
 - Secure form handling
 - Input validation
 
 ---
 
-Created with ❤️ using Flask and Bootstrap | © 2025 Kandula Sandeep Kumar
