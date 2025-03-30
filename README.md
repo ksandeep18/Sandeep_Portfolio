@@ -101,8 +101,8 @@ The website is fully responsive and looks great on:
 1. **Home** - Introduction and overview
 2. **Education** - Academic background and qualifications
 3. **Skills** - Technical and soft skills
-4. **Responsibilities** - Leadership and team experiences
-5. **Achievements** - Notable accomplishments and awards
+4. **Responsibilities** - team experiences in college clubs
+5. **Achievements** -  accomplishments 
 6. **Contact** - Contact information and form
 
 ## 🚀 Running the Application
