@@ -93,7 +93,6 @@ The website is fully responsive and looks great on:
 
 3. **Testing & Optimization**:
    - Tested on multiple devices and browsers
-   - Optimized for performance and accessibility
    - Fixed cross-browser compatibility issues
 
 ## 📝 Sections of the Portfolio
