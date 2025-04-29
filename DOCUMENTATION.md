@@ -321,4 +321,3 @@ The website prioritizes accessibility with:
 
 ---
 
-Created with professional expertise by Replit | For Kandula Sandeep Kumar
